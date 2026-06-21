@@ -9,6 +9,8 @@ Bu proje React kullanılarak geliştirilmiş olup, geliştirme ortamı olarak Vi
 Ana Ekran 
 <img width="300" height="404" alt="8" src="https://github.com/user-attachments/assets/1f36c66b-5aa9-4804-8213-e015db698271" />
 
+Silinen Ekran
+<img width="300" height="404" alt="9" src="https://github.com/user-attachments/assets/219e5303-0e86-4005-97d5-aa02f8b8ecfd" />
 
 
 🚀 Canlı Demo
