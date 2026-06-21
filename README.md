@@ -6,7 +6,7 @@ Bu proje React kullanılarak geliştirilmiş olup, geliştirme ortamı olarak Vi
 
 
 
-
+Ana Ekran 
 <img width="300" height="404" alt="8" src="https://github.com/user-attachments/assets/1f36c66b-5aa9-4804-8213-e015db698271" />
 
 
