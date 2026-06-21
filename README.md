@@ -7,7 +7,7 @@ Bu proje React kullanılarak geliştirilmiş olup, geliştirme ortamı olarak Vi
 
 
 
-<img width="661" height="804" alt="8" src="https://github.com/user-attachments/assets/dfe5465c-cd20-4acc-9daf-839d0b51b117" />
+<img width="661" height="804" alt="8" src="https://github.com/user-attachments/assets/1f36c66b-5aa9-4804-8213-e015db698271" />
 
 
 
