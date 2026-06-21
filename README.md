@@ -1,21 +1,58 @@
-<<<<<<< HEAD
-# React + Vite
+📝 TodoApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 TodoApp, kullanıcıların günlük görevlerini kolayca ekleyip yönetebileceği basit, hızlı ve modern bir görev takip uygulamasıdır.
+Uygulama sayesinde kullanıcılar görev ekleyebilir, tamamlandı olarak işaretleyebilir ve silebilir.
 
-Currently, two official plugins are available:
+🚀 Canlı Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 Live Demo:[ (Netlify linkini buraya ekle)](https://luxury-zabaione-4d9063.netlify.app/)
+📱 Mobil  uyumlu responsive tasarım
 
-## React Compiler
+📸 Uygulama Görselleri
+🏠 Ana Ekran
+Kullanıcıların tüm görevlerini görebildiği ana sayfa
+Yeni görev ekleme alanı
+➕ Görev Ekleme
+Kullanıcı hızlı şekilde yeni görev ekleyebilir
+Anlık listeye eklenir
+🗑️ Görev Silme
+İstenmeyen görevler tek tıkla silinir
+✨ Özellikler
+➕ Yeni görev ekleme
+📝 Görevleri listeleme
+🗑️ Görev silme özelliği
+📱 Responsive (mobil uyumlu) tasarım
+⚡ Hızlı ve kullanıcı dostu arayüz
+🎯 Minimal ve sade UI tasarımı
+🛠️ Kullanılan Teknolojiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Ekran Resimleri
+<img width="531" height="697" alt="1" src="https://github.com/user-attachments/assets/c793a4dc-25ad-4cfd-9ecf-15d57ec38ae9" />
 
-## Expanding the ESLint configuration
+Güncelleme Ekranı
+<img width="531" height="609" alt="2" src="https://github.com/user-attachments/assets/5c079e73-b325-46dc-a90b-e42687e2ae95" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# TodoApp
-React  kullanılarak geliştirilmiş basit bir Todo App. Kullanıcılar görev ekleyebilir, silebilir, güncelleyebilir ve listeleyebilir.
->>>>>>> bff88626617573a7a05afcbe808a2b67d050c278
+Silme Ekranı
+<img width="531" height="513" alt="3" src="https://github.com/user-attachments/assets/592822a0-82e7-4e91-85a3-9fbf0c0553e6" />
+
+
+Projede kullanılan teknolojiler:
+
+📱 Mobil / Web Framework
+React / HTML-CSS-JS)
+
+🌐 Deploy
+Netlify
+
+📂 Proje Yapısı
+TodoApp/
+│
+├── lib/                 
+│   ├── main.dart
+│   ├── screens/
+│   ├── widgets/
+│
+├── assets/             
+├── web/                
+├── pubspec.yaml
+└── README.md
