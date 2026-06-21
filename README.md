@@ -12,6 +12,9 @@ Ana Ekran
 Silinen Ekran
 <img width="300" height="404" alt="9" src="https://github.com/user-attachments/assets/219e5303-0e86-4005-97d5-aa02f8b8ecfd" />
 
+Güncellem Ekranı
+<img width="300" height="404" alt="10" src="https://github.com/user-attachments/assets/62a02610-f938-4cc9-8237-b756120117de" />
+
 
 🚀 Canlı Demo
 
