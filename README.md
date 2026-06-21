@@ -16,7 +16,7 @@ Güncelleme Ekranı
 <img width="500" height="500" alt="2" src="https://github.com/user-attachments/assets/5c079e73-b325-46dc-a90b-e42687e2ae95" />
 
 Silme Ekranı
-<img width="500" height="500" alt="3" src="https://github.com/user-attachments/assets/592822a0-82e7-4e91-85a3-9fbf0c0553e6" />
+<img width="500" height="500" alt="3" src="https://github.com/user-attachments/assets/592822a0-82e7-4e91-85a3-9fbf0c0553e6" />****
 
 
 Projede kullanılan teknolojiler:
